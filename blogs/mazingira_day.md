@@ -5,7 +5,8 @@ Our environment is important, and now more than ever, we need to take better car
 
 TL; DR: This blog has a brief history of air quality in Kenya, how it is linked to health, the current status of what is being done about air quality and health in Kenya, its links to general climate change and health in Kenya, and some links to some valuable resources to stay in touch.  
 
-## History
+## A brief history of air quality management in Kenya
+The air quality space has been active for years; we have studies as far back as 2001, but these were research studies. The involvement of the government and a general presence of the subject began in the 2010s. In 2014, the national government established air quality regulations, setting standards for pollutants(reference 1). This regulations act is what is still being implemented to date.   
 
 ## Air Quality and Health
 
@@ -18,3 +19,8 @@ The WHO guideline for air quality suggests maintaining air quality levels below.
 
 ## What part can you play?
 Yes, planting a tree will make a huge difference, so as is customary for the day, please do so. But you can also do the following:
+
+
+## Some helpful resources 
+1.  [Environmental Management and Coordination (Air Quality) Regulations](https://new.kenyalaw.org/akn/ke/act/ln/2014/34/eng@2022-12-31#att_1)
+2.  

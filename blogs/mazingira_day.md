@@ -1,4 +1,5 @@
 # Mazingira Day and What It Should Mean to Us as Kenyans: The Air Quality and Health Part
+## By Pauline Karega
 
 Last Friday, October 10th, Kenya celebrated Mazingira Day. A day usually marked by tree planting — an important tradition — but it should be much more. It should be filled with education on our environmental realities, how we can take better care of our surroundings, spotlight the environmental successes we’ve achieved over the year, and inspire collective responsibility.
 

@@ -1,61 +1,162 @@
-# Mazingira Day and what it should mean to us as Kenyans: The Air Quality and Health part
+# Mazingira Day and What It Should Mean to Us as Kenyans: The Air Quality and Health Part
 
-Last Friday, October 10th, Kenya celebrated Mazingira Day. A day usually marked by planting trees mostly. But it should be much more; it should be filled with education on what our environmental issues look like now, how we can protect them better, highlight amazing things we have done over the year, and all that. At least for us, as AQS dealing with air quality, it should be. 
-Our environment is important, and now more than ever, we need to take better care of it and be informed about how to do so. So, as AQS-EA, we are going to tell you about air quality in Kenya and give you a glimpse of the ins and outs, so that you know.
+Last Friday, October 10th, Kenya celebrated Mazingira Day. A day usually marked by tree planting — an important tradition — but it should be much more. It should be filled with education on our environmental realities, how we can take better care of our surroundings, spotlight the environmental successes we’ve achieved over the year, and inspire collective responsibility.
 
-TL; DR: This blog has a brief history of air quality in Kenya, how it is linked to health, the current status of what is being done about air quality and health in Kenya, its links to general climate change and health in Kenya, and some links to some valuable resources to stay in touch.  
+For us at **AQS-EA**, working daily in air quality, this day should also be about understanding the air we breathe and the impact it has on our health, economy, and future.
 
-## Some basics
-Air pollution is 
+Our environment is important, and now more than ever, we must take better care of it — and be informed about how to do so. So, as AQS-EA, we want to tell you about air quality in Kenya and give you a simple but meaningful glimpse into the ins and outs of the topic.
 
-When we measure air pollution, we look at particulate matter (PM), PM1, PM2.5, and PM10. Then we have volatile organic compounds, which can come from various sources. The gaseous components include NO2, NOx, CO, SO2, black carbon, and several others. 
+**TL;DR:**
+This blog covers a brief history of air quality in Kenya, how it connects to health, the current state of air quality management, its links to climate change, and helpful resources on how you can stay informed and involved.
 
-These are emmissions from everyday activities and we come into contact with them quite often. 
+---
 
-### What are the sources of air pollution?
+## Some Basics: What Is Air Pollution?
 
-Let's narrow it down to Kenya. We have industries such as cement, battery, jua kali sectors, chemical plants, murram roads, second hand cars and machinery that run on sulfur based fuels, both at home and at work places, ships on the coast, and more. All of these contribute to pollutants. We also cook with firewood, charcoal, and gas cookers, which also contribute various pollutants.
+Air pollution is the presence of harmful substances in the air — chemicals, particles, or biological materials — that pose risks to human health and the environment.
 
-When we examine air pollution, we consider it from two angles: indoor or household air pollution (HAP, or IAP) and ambient air quality or pollution (outside air). 
+When measuring air pollution, we look mainly at:
 
-The WHO and the Environmental Protection Agency (EPA) have established standards indicating the limits of air quality. If these limits are exceeded, the air is no longer safe to breathe. The Air Quality Index is an indicator developed to communicate to the public how polluted the air currently is and how polluted it is forecasted to become. For Kenya, PM2.5 should not exceed an average of 15mg/m3 in 24 hours, or 5 annually. 
+* **Particulate Matter (PM)**: PM1, PM2.5, and PM10 — tiny particles that can penetrate deep into the lungs.
+* **Volatile Organic Compounds (VOCs)**: From fuels, paints, cleaning products, and industrial processes.
+* **Gaseous pollutants**:
 
-So what happens when they exceed these levels? 
+  * **Nitrogen dioxide (NO₂)**
+  * **Nitrogen oxides (NOₓ)**
+  * **Carbon monoxide (CO)**
+  * **Sulfur dioxide (SO₂)**
+  * **Ozone (O₃)**
+  * **Black carbon**
 
-### Health implications of poor air quality
-There are short-term effects, such as eye irritation, sneezing, and a runny nose. Think of what happens on a super dusty day. Or when you are exposed to a lot of smoke from, for example, charcoal, or wood when cooking, or when burning waste. 
+These pollutants come from everyday activities — transport, cooking, energy use, waste burning, and industrial processes — which means we encounter them far more often than many people realize.
 
-Long-term effects include asthma, cardiovascular issues, cancer, and neuro developmental issues in children. 
+---
 
-## How are these pollutants measured to know what levels are dangerous 
+## What Are the Sources of Air Pollution in Kenya?
 
+Let’s bring it home.
 
-## A brief history of air quality management in Kenya
-The air quality space has been active for years; we have publications dating back to 2001, but these were scientific research studies, and we assume they were meant for a more scientific audience. Engagement of the general public through media, such as newspaper articles, became more rampant in the 2010s, coinciding with visible government actions and a general presence on the subject during the same period. In 2014, the national government established air quality regulations, setting standards for pollutants(reference 1). This regulations act is what is still being implemented to date. Thanks to this regulation, noticeable issues such as the lack of air quality data became apparent. 
+Kenya’s major pollution sources include:
 
-There are multiple studies being done on indoor air quality. There has been a surge in campaigns to promote cleaner cooking energy such as JikoKoa, and more.
+* **Industries**: Cement factories, metal works, battery recycling, chemical plants.
+* **Transport**: Imported second-hand vehicles, motorcycles, matatus, and trucks running on high-sulphur fuel.
+* **Jua Kali sector**: Welding, spray painting, metalwork, all often done without emissions control.
+* **Road dust**: Especially from **murram roads** and construction sites.
+* **Ports and shipping**: Particularly around the Coast.
+* **Household energy**: Firewood, charcoal, kerosene, and even gas stoves.
+* **Waste burning**: Still common in many estates and rural areas.
 
-The transport sector is also a key player in this history. Over the years, there has been introduction of laws that regulate the age of vehicles that can be imported which significantly affect the air quality. There has been a surge in efforts to introduce electric transport vehicles, and motor cycles. 
+Air pollution is generally viewed from two angles:
 
+1. **Household/Indoor Air Pollution (HAP or IAP)** — especially around cooking, heating, and poorly ventilated spaces.
+2. **Ambient (Outdoor) Air Pollution** — what we breathe outside.
 
+The **WHO** and **EPA** provide global guidelines for safe air quality levels. Kenya’s own regulation, for example, sets the standard for **PM2.5 at 15 µg/m³ (24-hr average)** and **5 µg/m³ (annual average)**.
 
+So what happens when levels exceed these limits?
+
+---
+
+## Health Implications of Poor Air Quality
+
+**Short-term effects:**
+
+* Eye irritation
+* Sneezing and coughing
+* Throat irritation
+* Headaches
+* Breathing difficulty
+  Think of how you feel on a very dusty day, or when exposed to kitchen smoke or burning waste.
+
+**Long-term effects:**
+
+* Asthma
+* Chronic obstructive pulmonary disease (COPD)
+* Cardiovascular disease
+* Stroke
+* Lung cancer
+* Cognitive and neurodevelopmental issues in children
+* Premature death
+
+Air pollution is not just an “environment” issue — it is one of the **biggest public health threats globally and in Kenya**, affecting pregnant mothers, young children, people living near busy roads, industrial workers, and communities relying on solid fuels.
+
+---
+
+## How Do We Measure Pollutants and Know What Levels Are Dangerous?
+
+Pollutants are measured using **air quality monitors** — instruments that continuously sample and analyze the air. These include:
+
+* **Reference-grade monitors**: Highly accurate but expensive; often used by government and research institutions.
+* **Low-cost sensors**: Cheaper, increasingly reliable, and ideal for community-level monitoring (e.g., PurpleAir, Clarity).
+* **Satellite monitoring**: Provides nationwide trends and fills gaps where ground monitors are absent.
+* **Mobile monitoring**: Sensors mounted on cars, motorcycles, or drones.
+
+The measurements are translated into indices like the **Air Quality Index (AQI)** so that the public can easily understand whether the air is safe.
+
+This is where Kenya still has gaps: *monitoring coverage remains limited*, meaning many communities do not know what they are breathing daily.
+
+---
+
+## A Brief History of Air Quality Management in Kenya
+
+Kenya’s air quality journey has evolved significantly:
+
+* **Early 2000s**: Scientific publications focused on industrial emissions and indoor air pollution.
+* **2010s**: Public engagement increased via newspapers, environmental campaigns, and civil society reports.
+* **2014**: The national government enacted the **Environmental Management and Coordination (Air Quality) Regulations (EMCR 2014)** — the country’s first formal standards for pollutants.
+  This exposed major gaps: *insufficient monitoring, weak enforcement, and lack of public awareness*.
+
+Since then:
+
+* Clean cooking campaigns (e.g., JikoKoa, PayGo LPG solutions) have expanded.
+* Efforts to electrify transport — e-bodas, e-buses, e-delivery bikes — have grown.
+* Research on indoor air pollution has increased significantly.
+* Counties such as Nairobi, Kisumu, and Mombasa are exploring air monitoring partnerships.
+
+Kenya is making progress, but challenges around data availability, policy implementation, and public awareness remain.
+
+---
 
 ## Status of Air Quality in Kenya
-You might be asking, where is it safest to breathe, and where do I need to watch out? 
-(map of air quality in Kenya against the WHO standard).
 
- 
+You might ask: **Where is it safest to breathe, and where should we be more cautious?**
 
-## What part can you play?
-Yes, planting a tree will make a huge difference, so as is customary for the day, please do so. But you can also do the following:
-1. Wear a mask on dusty days
-2. Your choice of cooking method should be safe to use. There are multiple campaigns to promote the use of safe cooking fuels like JikoKoa, LPG use as opposed to the traditional use of coal and firewood.
-3. Transport means. Import or buy better second hand vehicles
-4. Invest in air quality monitoring instruments
-5. Educate yourself about laws and rules like the EMCR, transport laws, urban planning and regulation laws. to become an advocate for your local community by questioning and reporting practices that could cause harm in the places you frequent. 
+Air quality varies dramatically by region.
+Generally:
 
+* **Urban areas** — Nairobi, Mombasa, Kisumu, Nakuru — face higher pollution levels due to traffic, industries, and population density.
+* **Informal settlements** tend to experience extremely high household air pollution due to solid fuels.
+* **Rural areas** may have cleaner outdoor air but still struggle with indoor pollution from firewood and charcoal.
 
+---
 
-## Some helpful resources 
-1.  [Environmental Management and Coordination (Air Quality) Regulations](https://new.kenyalaw.org/akn/ke/act/ln/2014/34/eng@2022-12-31#att_1)
-2.  
+## What Part Can You Play?
+
+Planting a tree makes a difference — so please do that. But there’s more:
+
+1. **Wear a mask on dusty days**, especially if you walk or commute along major roads.
+2. **Choose cleaner cooking methods.** Consider LPG, improved cookstoves, or electric cookers when possible.
+3. **Make smarter transport choices.**
+
+   * Buy vehicles with better emission standards.
+   * Maintain your car — poor maintenance equals more emissions.
+   * Support e-mobility if accessible in your area.
+4. **Invest in or support community air quality monitoring.**
+   Even low-cost sensors help create awareness and push local action.
+5. **Learn the laws that protect you**, such as the EMCR and urban planning regulations.
+   Use this knowledge to question harmful practices in your estate, workplace, or school.
+6. **Avoid burning waste** — report repeated violators to local authorities.
+7. **Talk about air quality.** Awareness is the first step to change.
+
+---
+
+## Helpful Resources
+
+1. **Environmental Management and Coordination (Air Quality) Regulations (2014)**
+2. **WHO Air Quality Guidelines (2021)**
+3. **NEMA – Air Quality Updates**
+4. **UNEP Pollution Action Notes**
+5. **OpenAQ – Kenya Air Quality Data**
+6. **ACAPS Air Quality in Africa Reports**
+7. **Kenya Clean Cooking Alliance (KCCA)**
+8. **AQS-EA website & social pages for updates**
